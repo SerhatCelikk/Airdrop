@@ -11,3 +11,4 @@ To run this contract
   5)approve your coins how much you want
   6)At remix call the deposit function
   7)After deposited your tokens call airdrop function
+.
